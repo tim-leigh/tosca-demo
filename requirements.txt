@@ -1,0 +1,5 @@
+# tbox-sdk is not on PyPI: install the wheel for your platform from the SDK zip, e.g.
+#   pip install <bundle>/python/tbox_sdk-0.4.136-py3-none-win_amd64.whl
+jsii>=1.142.0,<2.0.0
+publication>=0.0.3
+pytest
